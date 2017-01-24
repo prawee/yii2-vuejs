@@ -11,7 +11,6 @@
             "email": "konkeanweb@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php":"~5.5",
         "yiisoft/yii2":"*",
