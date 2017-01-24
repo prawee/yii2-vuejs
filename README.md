@@ -1,7 +1,5 @@
 # yii2-vuejs
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-
 
 This is Vue.js library for Yii2 framework 
 
