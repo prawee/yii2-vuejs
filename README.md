@@ -6,7 +6,7 @@ This is Vue.js library for Yii2 framework
 ## Install 
 Via Composer
 ``` bash 
-$ composer require "prawee/yii2-vuejs:*"
+$ composer require "prawee/yii2-vuejs:dev-master"
 ```
 
 ## Usage
