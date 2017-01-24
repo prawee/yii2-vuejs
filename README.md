@@ -1,7 +1,7 @@
 # yii2-vuejs
 
-[![Lastest Version on Packagist][ico-version]][link-packagist]
-[!Software License][ico-license]]
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Software License][ico-license]]
 
 This is Vue.js library for Yii2 framework 
 
