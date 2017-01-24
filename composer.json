@@ -1,0 +1,25 @@
+{
+    "name": "prawee/yii2-vuejs",
+    "description": "Vue.js library for Yii2",
+    "type": "yii2-library",
+    "keywords": ["yii2","library","vuejs","vue"],
+    "license": "MIT",
+    "homepage": "https://github.com/prawee/yii2-vuejs.git",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "konkeanweb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":"~5.5",
+        "yiisoft/yii2":"*",
+        "bower-asset/vue":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "prawee\\vuejs\\": ""
+        }
+    }
+}
