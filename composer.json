@@ -12,8 +12,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2":">=2.0.10",
-        "bower-asset/vue":"~2.1.10"
+        "yiisoft/yii2": ">=2.0.10",
+        "bower-asset/vue": "~2.1.10",
+        "npm-asset/vue-strap": "*"
     },
     "autoload": {
         "psr-4": {
