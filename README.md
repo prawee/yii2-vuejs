@@ -10,6 +10,9 @@ $ composer require "prawee/yii2-vuejs:dev-master"
 ```
 
 ## Usage
+``` php
+use prawee\vuejs\VueJsAsset;
+```
 On your view 
 ``` php
 VueJsAsset::register($this);
