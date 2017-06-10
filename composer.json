@@ -2,7 +2,7 @@
     "name": "prawee/yii2-vuejs",
     "description": "Vue.js library for Yii2",
     "type": "yii2-library",
-    "keywords": ["yii2","library","vuejs","vue"],
+    "keywords": ["yii2","library","vuejs2","vue"],
     "license": "MIT",
     "homepage": "https://github.com/prawee/yii2-vuejs.git",
     "authors": [
